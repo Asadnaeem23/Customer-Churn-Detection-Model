@@ -1,0 +1,22 @@
+# Generated model & prediction outputs
+rf_model.pkl
+churn_predictions.csv
+batch_results.csv
+
+# Temp/scratch CSV files
+test2.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
